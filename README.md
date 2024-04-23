@@ -1,16 +1,13 @@
-### Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
 
-<!--
-**livete18/livete18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
 
-Here are some ideas to get you started:
+@alurastartestudante
+![qrcode_i ytimg com](https://github.com/livete18/livete18/assets/167868176/02fa5a88-ca72-483c-8563-7d166700fc14)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
